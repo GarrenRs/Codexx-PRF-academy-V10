@@ -1,0 +1,102 @@
+{
+  "name": "Demo Portfolio - Codexx",
+  "title": "Web Developer & Designer",
+  "description": "Experience the power of Codexx Portfolio Platform with this interactive demo",
+  "photo": "static/assets/profile-placeholder.svg",
+  "about": "Welcome to the Codexx Portfolio Platform! This is a live demo showcasing all the features available in our professional portfolio management system. Feel free to explore and customize this demo to see how your portfolio would look.",
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": 90
+    },
+    {
+      "name": "UI/UX Design",
+      "level": 85
+    },
+    {
+      "name": "JavaScript",
+      "level": 88
+    },
+    {
+      "name": "React.js",
+      "level": 85
+    },
+    {
+      "name": "Python",
+      "level": 80
+    }
+  ],
+  "projects": [],
+  "contact": {
+    "email": "demo@codexx.com",
+    "phone": "+1 234 567 8900",
+    "location": "San Francisco, CA"
+  },
+  "social": {},
+  "messages": [],
+  "visitors": {
+    "total": 0,
+    "today": [],
+    "unique_ips": []
+  },
+  "settings": {
+    "theme": "luxury-gold"
+  },
+  "clients": [],
+  "users": [
+    {
+      "id": 1,
+      "username": "Sara",
+      "password_hash": "scrypt:32768:8:1$nX3KQLnEjuTnUQkT$bca5b54b19d4d5ec0f44a38d95dc7f09bcd33e29a36b1a00a66513c71d6ad7ce7993ca04e69ada33345cd04a359debf7adaa438f0a3162a3772d27c5bb6fb788",
+      "email": "ahmed@example.com",
+      "role": "user",
+      "is_demo": false,
+      "created_at": "2025-12-29 23:03:16"
+    }
+  ],
+  "portfolios": {
+    "Sara": {
+      "username": "Sara",
+      "name": "",
+      "title": "",
+      "description": "",
+      "about": "",
+      "photo": "",
+      "skills": [],
+      "projects": [],
+      "messages": [],
+      "clients": [],
+      "contact": {
+        "email": "",
+        "phone": "",
+        "location": ""
+      },
+      "social": {
+        "linkedin": "",
+        "github": "",
+        "twitter": "",
+        "instagram": "",
+        "facebook": "",
+        "youtube": "",
+        "behance": "",
+        "dribbble": ""
+      },
+      "settings": {
+        "theme": "terracotta-red"
+      },
+      "visitors": {
+        "total": 1,
+        "today": [
+          {
+            "ip": "105.235.128.15, 10.81.6.140",
+            "timestamp": "2025-12-29 23:03:47",
+            "date": "2025-12-29"
+          }
+        ],
+        "unique_ips": [
+          "105.235.128.15, 10.81.6.140"
+        ]
+      }
+    }
+  }
+}
